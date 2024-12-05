@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb2c6b3-f301-40bc-8182-fce305549285" name="Changes" comment="Create Practice for Task 1" />
+    <list default="true" id="8fb2c6b3-f301-40bc-8182-fce305549285" name="Changes" comment="Create Practice for Conditional construction. if,elif, else">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_2_2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.module_2_1.executor": "Debug",
+    "Python.module_2_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
@@ -73,12 +77,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733397167071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create module2 project">
+      <option name="closed" value="true" />
+      <created>1733399672168</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733399672168</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Practice for task 1">
+      <option name="closed" value="true" />
+      <created>1733399690416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733399690416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Practice for Conditional construction. if,elif, else">
+      <option name="closed" value="true" />
+      <created>1733399794446</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733399794446</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Practice for Task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Practice for Task 1" />
+    <MESSAGE value="Create module2 project" />
+    <MESSAGE value="Create Practice for task 1" />
+    <MESSAGE value="Create Practice for Conditional construction. if,elif, else" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Practice for Conditional construction. if,elif, else" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
